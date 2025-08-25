@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Richard Zhu👨‍💻</h1>
 <h3 align="center">Welcome to my corner of GitHub, where half-finished projects go to retire.</h3>
-
+<!--
 # ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
-
+-->
+<
+<p align="center">
+  <img src="https://raw.githubusercontent.com/crRdz/crRdz/master/pokemon_once.gif"width="840" height="426" />
+</p>
 
 # <p align="center">  How to reach me 📫 crzhu.Richard@gmail.com
 
