@@ -6,9 +6,7 @@
 </h3>
 
 <p align="center">
-  <em>"Welcome to my corner of GitHub, where half-finished projects go to retire."</em> 
-  <br>
-  (But some actually survive!)
+  <em>"Building the plane while flying it."</em> 
 </p>
 
 <p align="center">
@@ -18,7 +16,7 @@
 
 ### About Me.
 
-**Currently studying at**: Xian-Jiaotong Liverpool university
+**Currently studying**: Information and Computing Science at Xi'an Jiaotong-Liverpool University
 
 📫 **How to reach me**: crzhu.Richard@gmail.com
 
