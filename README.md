@@ -30,9 +30,11 @@
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   </div>
 
 </div>
@@ -41,6 +43,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/ML-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Testing-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
     <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
