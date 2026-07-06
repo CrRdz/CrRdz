@@ -15,14 +15,14 @@
 
 ### About Me.
 
-**Currently studying**: Information and Computing Science at Xi'an Jiaotong-Liverpool University
+**Currently studying**: Information and Computing Science @XJTLU
 
 📫 **How to reach me**: crzhu.Richard@gmail.com
 
  <br>
 
 ### Techs.
-<!--  
+ 
   <div style="display: flex; align-items: flex-start; justify-content: center">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -35,7 +35,7 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   </div>
--->
+
 
  <br>
 
